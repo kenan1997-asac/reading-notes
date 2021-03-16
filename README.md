@@ -14,9 +14,9 @@ so it's a good start by breaking mindset into two types. starting with the stati
 
 to achive a Growth mindset, I personally work on three main aspects :
 
-1. patince 
-2. improving my skills 
-3. maintaining a healthy lifestyle 
+1. *Patience* 
+2. *Improving my skills* 
+3. *Maintaining a healthy lifestyle* 
 
 to read more about it visit [Growth mindset](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
 if you like my first repo please vist my [Github portfolio from here!](https://github.com/kenan1997-asac)
