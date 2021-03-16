@@ -1,7 +1,7 @@
 # reading-notes
-##This repo is about Growth Mindset
+## This repo is about Growth Mindset
 
-Hello there! *I'm Eng.Kenan Al-Talahmeh*, a tech enthusiastic. Currently I'm a software development intern at _**ASAC**.
+Hello there! *I'm Eng.Kenan Al-Talahmeh*, a tech enthusiastic. Currently I'm a software development intern at _**ASAC**_.
 
 So as the description suggests this repo will discuss _**Mindsets**_ especailly the __Growth mindsets__.
 
