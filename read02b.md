@@ -1,0 +1,3 @@
+# Read 02b
+
+To revisit any version of your file we need something called version control, which allows the user to revisit any version of his/her files and make changes anytime. programmers created something called local version control which access the database on your hard disk. CVC helps developers to collaborate and revisit versions of files as a team. work flow is divided into 3 main stages Working Directory, index , and head. 
