@@ -22,3 +22,9 @@ to read more about it visit [Growth mindset](https://www.atlassian.com/blog/insi
 if you like my first repo please vist my [Github portfolio from here!](https://github.com/kenan1997-asac)
 
 ![Fixed mindset v.s. Growth mindset](https://blog.cengage.com/wp-content/uploads/2020/11/blog-growth-mindset-1511130.png)
+
+Reading assignments | Links
+--------------------|--------------------
+Read01 | [visit page](https://github.com/kenan1997-asac/reading-notes/blob/main/read01.md)
+Read02a | [visit page](https://github.com/kenan1997-asac/reading-notes/blob/main/read02a.md)
+Read02b | [visit page](https://github.com/kenan1997-asac/reading-notes/blob/main/read02b.md)
