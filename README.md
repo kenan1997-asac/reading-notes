@@ -12,3 +12,4 @@ Read02a | [visit page](https://github.com/kenan1997-asac/reading-notes/blob/main
 Read02b | [visit page](https://github.com/kenan1997-asac/reading-notes/blob/main/read02b.md)
 Read03 | [visit page](https://github.com/kenan1997-asac/reading-notes/blob/main/read03.md)
 Read04a | [visit page](https://github.com/kenan1997-asac/reading-notes/blob/main/read04a.md)
+Read05 | [visit page](https://github.com/kenan1997-asac/reading-notes/blob/main/read05.md)
